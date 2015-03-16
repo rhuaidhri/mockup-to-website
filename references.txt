@@ -1,0 +1,6 @@
+http://getbootstrap.com/css/
+http://framelessgrid.com/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
